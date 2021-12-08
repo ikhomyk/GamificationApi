@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\flagman\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\flagman\\.nuget\\packages"
+    ]
+  }
+}
